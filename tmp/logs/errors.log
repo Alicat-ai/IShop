@@ -1,0 +1,1868 @@
+[2022-07-18 19:45:36] Error text: Error | File: C:\OpenServer\domains\ishop.loc\public\index.php | String: 11
+===============
+[2022-07-18 19:50:22] Error text: Error | File: C:\OpenServer\domains\ishop.loc\public\index.php | String: 11
+===============
+[2022-07-18 19:50:23] Error text: Error | File: C:\OpenServer\domains\ishop.loc\public\index.php | String: 11
+===============
+[2022-07-18 19:50:24] Error text: Error | File: C:\OpenServer\domains\ishop.loc\public\index.php | String: 11
+===============
+[2022-07-18 19:50:37] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\public\index.php | String: 12
+===============
+[2022-07-18 19:52:23] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\public\index.php | String: 12
+===============
+[2022-07-18 19:52:26] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\public\index.php | String: 12
+===============
+[2022-07-18 19:52:27] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\public\index.php | String: 12
+===============
+[2022-07-18 19:53:11] Error text: Error | File: C:\OpenServer\domains\ishop.loc\public\index.php | String: 11
+===============
+[2022-07-21 15:56:52] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 31
+===============
+[2022-07-21 15:56:52] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 31
+===============
+[2022-07-21 16:04:39] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:07:21] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:07:24] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:08:29] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:08:30] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:08:30] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:08:30] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:08:30] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:08:30] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:08:31] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:08:31] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:08:31] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:09:11] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:09:12] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:09:12] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:09:24] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:09:24] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:09:24] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:09:24] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:09:25] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:09:25] Error text: Controller app\controllers\admin\MainController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 38
+===============
+[2022-07-21 16:09:34] Error text: Undefined property: app\controllers\MainController::$indexAction | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 33
+===============
+[2022-07-21 16:17:17] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 41
+===============
+[2022-07-21 18:35:03] Error text: Call to undefined method app\controllers\PageController::getModel() | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 47
+===============
+[2022-07-21 18:35:04] Error text: Call to undefined method app\controllers\PageController::getModel() | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 47
+===============
+[2022-07-21 18:35:04] Error text: Call to undefined method app\controllers\PageController::getModel() | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 47
+===============
+[2022-07-21 18:35:05] Error text: Call to undefined method app\controllers\PageController::getModel() | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 47
+===============
+[2022-07-22 15:38:56] Error text: Typed property wfm\Controller::$model must not be accessed before initialization | File: C:\OpenServer\domains\ishop.loc\app\controllers\MainController.php | String: 11
+===============
+[2022-07-22 15:39:19] Error text: Undefined property: app\controllers\MainController::$Layout | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 31
+===============
+[2022-07-22 15:40:22] Error text: Undefined property: app\controllers\MainController::$Layout | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 31
+===============
+[2022-07-22 15:40:23] Error text: Undefined property: app\controllers\MainController::$Layout | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 31
+===============
+[2022-07-22 15:40:23] Error text: Undefined property: app\controllers\MainController::$Layout | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 31
+===============
+[2022-07-22 15:40:24] Error text: Undefined property: app\controllers\MainController::$Layout | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 31
+===============
+[2022-07-22 15:40:24] Error text: Undefined property: app\controllers\MainController::$Layout | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 31
+===============
+[2022-07-22 15:40:24] Error text: Undefined property: app\controllers\MainController::$Layout | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 31
+===============
+[2022-07-22 15:40:33] Error text: Call to undefined method app\controllers\PageController::getModel() | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 47
+===============
+[2022-07-22 15:40:36] Error text: Undefined property: app\controllers\admin\MainController::$Layout | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 31
+===============
+[2022-07-22 15:40:38] Error text: Undefined property: app\controllers\admin\MainController::$Layout | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 31
+===============
+[2022-07-22 15:40:39] Error text: Undefined property: app\controllers\admin\MainController::$Layout | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 31
+===============
+[2022-07-22 15:47:55] Error text: syntax error, unexpected token "}" | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 32
+===============
+[2022-07-22 15:48:39] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/admin/Main/Index.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 31
+===============
+[2022-07-22 15:50:35] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/admin/Main/Index.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 31
+===============
+[2022-07-22 15:52:55] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/admin/Main/Index.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 31
+===============
+[2022-07-22 15:53:48] Error text: Undefined property: app\controllers\admin\MainController::$Layout | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 31
+===============
+[2022-07-22 15:53:52] Error text: Undefined property: app\controllers\admin\MainController::$Layout | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 31
+===============
+[2022-07-22 15:53:59] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/admin/Main/Index.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 31
+===============
+[2022-07-22 16:00:14] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/Layouts/ishop.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 41
+===============
+[2022-07-22 16:01:49] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/Layouts/ishop.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 41
+===============
+[2022-07-22 16:01:56] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/Layouts/test.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 41
+===============
+[2022-07-22 16:02:49] Error text: Type of app\controllers\MainController::$layout must be string|false (as in class wfm\Controller) | File: C:\OpenServer\domains\ishop.loc\app\controllers\MainController.php | String: 7
+===============
+[2022-07-22 16:03:06] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/Layouts/test2.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 41
+===============
+[2022-07-22 16:09:46] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/Layouts/ishop.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 41
+===============
+[2022-07-22 17:03:27] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 3
+===============
+[2022-07-22 17:06:26] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 3
+===============
+[2022-07-22 17:06:35] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 3
+===============
+[2022-07-22 17:06:36] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 3
+===============
+[2022-07-22 17:06:36] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 3
+===============
+[2022-07-22 17:06:36] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 3
+===============
+[2022-07-22 17:06:54] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 3
+===============
+[2022-07-22 17:06:55] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 3
+===============
+[2022-07-22 17:06:55] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 3
+===============
+[2022-07-22 17:06:55] Error text: Undefined variable $test | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 3
+===============
+[2022-07-22 17:07:05] Error text: Undefined variable $names | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 4
+===============
+[2022-07-22 17:08:28] Error text: syntax error, unexpected token "=>", expecting ")" | File: C:\OpenServer\domains\ishop.loc\app\controllers\MainController.php | String: 15
+===============
+[2022-07-22 17:08:46] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\controllers\MainController.php | String: 15
+===============
+[2022-07-24 13:42:43] Error text: Undefined variable $names | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 4
+===============
+[2022-07-24 13:44:17] Error text: Undefined variable $names | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 4
+===============
+[2022-07-24 13:44:19] Error text: Undefined variable $names | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 4
+===============
+[2022-07-25 17:49:23] Error text: Call to a member function find() on null | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | String: 1018
+===============
+[2022-07-25 17:50:10] Error text: Undefined variable $names | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 4
+===============
+[2022-07-25 17:51:13] Error text: Undefined variable $names | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 4
+===============
+[2022-07-25 17:57:20] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 17:57:21] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 17:58:04] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 17:58:05] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 17:58:05] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 17:58:06] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 18:00:19] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 18:00:20] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 18:00:20] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 18:00:20] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 18:00:20] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 18:01:01] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 18:01:02] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 18:01:02] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 18:01:02] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 18:01:02] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 18:01:03] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-25 18:01:03] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.names' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:28:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:31:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:31:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:31:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:31:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:31:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:31:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:31:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:31:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:31:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:31:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:31:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:31:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:34:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:34:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:34:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:34:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:34:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:34:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:34:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:34:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:34:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:34:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:34:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:34:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:43:14] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:43:18] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:43:25] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:43:28] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:44:16] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:47:30] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:47:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:49:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:49:16] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:49:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:49:40] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:55:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:58:04] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 16:59:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:01:03] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:05:42] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:08:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:10:06] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:12:27] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:13:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:14:26] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:14:26] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:14:27] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:15:01] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:16:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:16:32] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:16:32] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:16:32] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:16:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:21:16] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:27:32] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:28:58] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-26 17:29:50] Error text: syntax error, unexpected variable "$this" | File: C:\OpenServer\domains\ishop.loc\app\views\layouts\ishop.php | String: 7
+===============
+[2022-07-26 17:30:14] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 13:58:13] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 14:08:20] Error text: Undefined array key "title" | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 50
+===============
+[2022-07-27 14:10:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 14:21:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 14:25:14] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 14:36:35] Error text: Undefined variable $i | File: C:\OpenServer\domains\ishop.loc\app\views\Main\index.php | String: 7
+===============
+[2022-07-27 14:36:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:08:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:09:19] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:09:48] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:09:52] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:10:08] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:10:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:10:12] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:10:12] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:10:12] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:10:40] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:11:08] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:11:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:11:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:11:10] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:11:10] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:11:21] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:11:30] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:11:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:12:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:12:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:12:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:12:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:12:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:12:40] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:12:41] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:13:44] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:14:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:14:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:15:04] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:15:05] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:30:49] Error text: SQLSTATE[42S02]: Base table or view not found: 1051 Unknown table 'ishop.product' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-07-27 17:32:42] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:41:14] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:42:13] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:48:02] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:49:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:50:20] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:53:10] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 17:56:49] Error text: Undefined variable $products | File: C:\OpenServer\domains\ishop.loc\app\views\parts\products_loop.php | String: 4
+===============
+[2022-07-27 17:57:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:02:43] Error text: syntax error, unexpected token "}" | File: C:\OpenServer\domains\ishop.loc\app\controllers\MainController.php | String: 24
+===============
+[2022-07-27 18:02:51] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:04:55] Error text: syntax error, unexpected token "::" | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 42
+===============
+[2022-07-27 18:05:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:05:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:08:06] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:14:15] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:19:02] Error text: Call to a member function getDatabase() on null | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 60
+===============
+[2022-07-27 18:19:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:22:13] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:25:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:25:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:25:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:25:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:25:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:25:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:27:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:27:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:27:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:27:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:27:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:27:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:29:08] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:30:58] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:40:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:40:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:40:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:40:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:40:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:40:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:40:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:40:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:40:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:40:56] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:45:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:45:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:45:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:45:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:45:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:45:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:45:56] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:46:02] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:46:04] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:46:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:46:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:46:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:46:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:46:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:46:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-07-27 18:46:15] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:13:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:13:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:13:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:13:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:13:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:13:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:13:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:13:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:22:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:22:52] Error text: Call to a member function getDatabase() on null | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 60
+===============
+[2022-08-01 14:22:52] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:22:52] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:22:52] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:22:52] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:22:52] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:25:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:25:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:25:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:25:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:25:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 14:25:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:00:51] Error text: Class "app\widgets\Language\Language" not found | File: C:\OpenServer\domains\ishop.loc\app\controllers\AppController.php | String: 17
+===============
+[2022-08-01 17:01:15] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:01:15] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:01:15] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:01:15] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:01:15] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:01:15] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:03:47] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:03:47] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:03:47] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:03:47] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:03:47] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:03:47] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:03:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:03:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:03:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:03:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:03:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:03:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:06:22] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:06:22] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:06:22] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:06:22] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:06:22] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:06:22] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:06:38] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:06:38] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:06:38] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:06:38] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:06:38] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:22:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:22:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:22:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:22:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:22:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:22:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:22:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:22:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:22:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:22:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:22:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:22:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-01 17:24:28] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 61
+===============
+[2022-08-01 17:24:28] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 61
+===============
+[2022-08-01 17:24:28] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 61
+===============
+[2022-08-01 17:24:28] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 61
+===============
+[2022-08-01 17:24:28] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 61
+===============
+[2022-08-01 17:24:40] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 61
+===============
+[2022-08-01 17:24:40] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 61
+===============
+[2022-08-01 17:24:40] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 61
+===============
+[2022-08-01 17:24:40] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 61
+===============
+[2022-08-01 17:24:40] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 61
+===============
+[2022-08-01 17:24:40] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 61
+===============
+[2022-08-01 17:30:01] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:30:01] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:30:01] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:30:01] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:30:01] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:30:01] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:31:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:31:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:31:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:31:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:31:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:31:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:31:43] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:31:43] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:31:43] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:31:43] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:31:43] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:31:43] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:35:15] Error text: Not found language fr | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\Language.php | String: 41
+===============
+[2022-08-01 17:35:25] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:35:25] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:35:25] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:35:25] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:35:25] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:35:25] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:35:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:35:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:35:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:35:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:35:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:35:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:39:38] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:39:38] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:39:38] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:39:38] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:39:38] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-01 17:39:38] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:40:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:40:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:40:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:40:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:40:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:40:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:40:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:40:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:41:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:41:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:41:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:41:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:41:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:41:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:41:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:41:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:41:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:41:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:41:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:41:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:43:44] Error text: require_once(C:\OpenServer\domains\ishop.loc\app\widgets\languagelang_tpl.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\Language.php | String: 55
+===============
+[2022-08-02 13:44:30] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:44:30] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:44:30] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:44:30] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:44:30] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:44:30] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:46:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:46:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:46:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:46:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:46:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:46:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:53:46] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 13:53:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:53:52] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 13:53:52] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:53:56] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 13:53:56] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:53:57] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 13:53:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:53:59] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 13:53:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:55:58] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 16
+===============
+[2022-08-02 13:55:58] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:55:59] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 16
+===============
+[2022-08-02 13:55:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:59:26] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 13:59:26] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 13:59:34] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 13:59:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:00:28] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 14:00:29] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 14:00:30] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 14:00:30] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 14:00:30] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 14:00:30] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 14:00:42] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 14:00:42] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:05:41] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 14:05:41] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:06:21] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:07:26] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:08:30] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:09:35] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 14:09:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:10:09] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 15
+===============
+[2022-08-02 14:10:10] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:11:03] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:11:03] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:11:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:11:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:11:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:11:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:11:46] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:14:23] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 16
+===============
+[2022-08-02 14:14:23] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:14:33] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 16
+===============
+[2022-08-02 14:14:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:16:44] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 11
+===============
+[2022-08-02 14:17:26] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:17:26] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:18:08] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:18:08] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:18:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:18:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:18:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:18:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:19:51] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 16
+===============
+[2022-08-02 14:19:51] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:20:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:20:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:20:50] Error text: Call to undefined function PHPSTORM_META\type() | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 19
+===============
+[2022-08-02 14:20:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:21:05] Error text: Call to undefined function PHPSTORM_META\type() | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 19
+===============
+[2022-08-02 14:21:05] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:21:42] Error text: Call to undefined function PHPSTORM_META\type() | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 26
+===============
+[2022-08-02 14:21:42] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:22:06] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:22:06] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:22:40] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:22:40] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:24:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:24:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:24:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:24:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:24:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:24:11] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:26:00] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:26:00] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:28:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:28:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:29:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:29:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:29:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:29:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:30:27] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:30:27] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:30:27] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:30:27] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:30:27] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:30:55] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:30:55] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:30:55] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:30:55] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:30:55] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:31:58] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:31:58] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:31:58] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:31:58] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:31:58] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:33:17] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\widgets\language\lang_tpl.php | String: 17
+===============
+[2022-08-02 14:33:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:34:42] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 14:59:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:04:21] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:05:04] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:11:17] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:11:44] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:15:04] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:15:08] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:15:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:15:54] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:16:08] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:16:50] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:19:00] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:26:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:55] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:55] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:55] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:36:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:45:16] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:46:14] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:46:15] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:46:56] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 15:46:58] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:12:08] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:13:44] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:13:44] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:13:44] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:13:44] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:13:44] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:14:19] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:14:19] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:14:19] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:14:19] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:14:19] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:14:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:14:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:14:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:14:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 16:14:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:09:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:09:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:09:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:09:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:09:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:10:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:10:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:10:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:10:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:10:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:10:48] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:10:48] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:10:48] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:10:48] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-02 18:10:48] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-03 18:38:19] Error text: Cannot assign int to property wfm\Language::$lang_view of type array | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Language.php | String: 19
+===============
+[2022-08-03 18:38:47] Error text: Cannot assign int to property wfm\Language::$lang_view of type array | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Language.php | String: 19
+===============
+[2022-08-09 15:30:05] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-09 15:42:25] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-09 15:44:26] Error text: file_put_contents(C:\OpenServer\domains\ishop.loc/tmp/cache/098f6bcd4621d373cade4e832627b4f6.txt): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Cache.php | String: 13
+===============
+[2022-08-09 16:01:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-09 16:01:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-09 16:01:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-09 16:01:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-09 16:01:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-09 17:04:27] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:04:30] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:04:31] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:04:33] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:06:25] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:06:27] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:06:51] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:06:52] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:06:52] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:06:52] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:07:04] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:07:05] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:07:05] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:07:54] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-09 17:07:59] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.category_id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-10 15:52:30] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-10 15:52:35] Error text: Controller app\controllers\CartController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-10 15:59:22] Error text: Controller app\controllers\CartController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-10 15:59:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-10 15:59:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-10 15:59:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-10 15:59:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-10 15:59:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-10 16:01:27] Error text: Controller app\controllers\CartController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-10 16:01:37] Error text: Controller app\controllers\CartController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-10 16:01:41] Error text: Controller app\controllers\CartController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-10 16:19:26] Error text: Undefined variable $qty | File: C:\OpenServer\domains\ishop.loc\app\controllers\CartController.php | String: 11
+===============
+[2022-08-10 16:31:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-10 16:33:03] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-10 17:32:19] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/Cart/add.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 35
+===============
+[2022-08-10 17:33:03] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/Cart/add.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 35
+===============
+[2022-08-10 18:32:47] Error text: Undefined array key "cart?" | File: C:\OpenServer\domains\ishop.loc\app\views\Cart\cart_modal.php | String: 14
+===============
+[2022-08-10 18:35:35] Error text: Undefined array key "cart?" | File: C:\OpenServer\domains\ishop.loc\app\views\Cart\cart_modal.php | String: 14
+===============
+[2022-08-10 18:35:46] Error text: Undefined array key "cart?" | File: C:\OpenServer\domains\ishop.loc\app\views\Cart\cart_modal.php | String: 14
+===============
+[2022-08-10 18:36:59] Error text: Undefined array key "cart?" | File: C:\OpenServer\domains\ishop.loc\app\views\Cart\cart_modal.php | String: 14
+===============
+[2022-08-10 18:39:37] Error text: Undefined array key "cart?" | File: C:\OpenServer\domains\ishop.loc\app\views\Cart\cart_modal.php | String: 14
+===============
+[2022-08-10 18:44:43] Error text: Undefined array key "cart?" | File: C:\OpenServer\domains\ishop.loc\app\views\Cart\cart_modal.php | String: 14
+===============
+[2022-08-10 18:45:59] Error text: Undefined array key "cart?" | File: C:\OpenServer\domains\ishop.loc\app\views\Cart\cart_modal.php | String: 14
+===============
+[2022-08-10 19:27:29] Error text: Undefined array key "cart?" | File: C:\OpenServer\domains\ishop.loc\app\views\Cart\cart_modal.php | String: 14
+===============
+[2022-08-11 17:17:29] Error text: require(C:\OpenServer\domains\ishop.loc/app/views/Cart/cart-modal.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 57
+===============
+[2022-08-11 17:22:44] Error text: require(C:\OpenServer\domains\ishop.loc/app/views/Cart/cart-modal.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Controller.php | String: 57
+===============
+[2022-08-11 19:40:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-11 19:40:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-11 19:40:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-11 19:40:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-11 19:40:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-15 14:42:28] Error text: Class "R" not found | File: C:\OpenServer\domains\ishop.loc\app\models\Product.php | String: 12
+===============
+[2022-08-15 14:42:28] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-15 14:45:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-15 14:45:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-15 14:45:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-15 14:45:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-15 14:45:37] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-15 14:45:47] Error text: Product canon-eos-5dd not found | File: C:\OpenServer\domains\ishop.loc\app\controllers\ProductController.php | String: 18
+===============
+[2022-08-15 14:51:16] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-15 14:51:16] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-15 14:51:16] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-15 14:51:16] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-15 14:51:16] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-15 15:20:58] Error text: Class "R" not found | File: C:\OpenServer\domains\ishop.loc\app\models\Product.php | String: 18
+===============
+[2022-08-15 15:21:08] Error text: Class "R" not found | File: C:\OpenServer\domains\ishop.loc\app\models\Product.php | String: 18
+===============
+[2022-08-18 13:21:14] Error text: Undefined array key "category_id" | File: C:\OpenServer\domains\ishop.loc\app\controllers\ProductController.php | String: 22
+===============
+[2022-08-18 13:23:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:23:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:23:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:23:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:23:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:23:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:23:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:23:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:23:34] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:23:40] Error text: Undefined array key "category_id" | File: C:\OpenServer\domains\ishop.loc\app\controllers\ProductController.php | String: 22
+===============
+[2022-08-18 13:25:22] Error text: Undefined array key "titile" | File: C:\OpenServer\domains\ishop.loc\app\controllers\ProductController.php | String: 22
+===============
+[2022-08-18 13:25:32] Error text: Undefined array key "titile" | File: C:\OpenServer\domains\ishop.loc\app\models\Breadcrumbs.php | String: 27
+===============
+[2022-08-18 13:25:36] Error text: Undefined array key "titile" | File: C:\OpenServer\domains\ishop.loc\app\models\Breadcrumbs.php | String: 27
+===============
+[2022-08-18 13:26:01] Error text: app\models\Breadcrumbs::getBreadcrumbs(): Return value must be of type string, none returned | File: C:\OpenServer\domains\ishop.loc\app\models\Breadcrumbs.php | String: 17
+===============
+[2022-08-18 13:26:26] Error text: Undefined array key "category_id" | File: C:\OpenServer\domains\ishop.loc\app\controllers\ProductController.php | String: 22
+===============
+[2022-08-18 13:27:15] Error text: app\models\Breadcrumbs::getBreadcrumbs(): Return value must be of type string, none returned | File: C:\OpenServer\domains\ishop.loc\app\models\Breadcrumbs.php | String: 17
+===============
+[2022-08-18 13:27:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:27:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:27:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:27:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:27:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:27:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:27:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:27:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:27:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:27:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:28:00] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:28:33] Error text: Undefined array key "category_id" | File: C:\OpenServer\domains\ishop.loc\app\controllers\ProductController.php | String: 22
+===============
+[2022-08-18 13:29:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:30:35] Error text: Uninitialized string offset 1 | File: C:\OpenServer\domains\ishop.loc\app\controllers\ProductController.php | String: 22
+===============
+[2022-08-18 13:30:45] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\controllers\ProductController.php | String: 22
+===============
+[2022-08-18 13:31:07] Error text: Cannot access offset of type string on string | File: C:\OpenServer\domains\ishop.loc\app\controllers\ProductController.php | String: 24
+===============
+[2022-08-18 13:31:28] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:34:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:33] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:50:56] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:51:43] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:58:21] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:58:42] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:58:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:58:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:58:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:58:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:58:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:58:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:58:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:58:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 13:58:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:08:56] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:08:56] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:08:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:08:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:08:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:08:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:08:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:08:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:08:57] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:18] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:18] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:18] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:18] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:18] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:18] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:18] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:18] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:18] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:20] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:20] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:20] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:20] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:20] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:20] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:20] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:20] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:20] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:31] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:32] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:09:39] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:12:14] Error text: Undefined variable $breadcrumbs | File: C:\OpenServer\domains\ishop.loc\app\controllers\ProductController.php | String: 22
+===============
+[2022-08-18 14:12:32] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:12:52] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:14:41] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:14:44] Error text: Controller app\controllers\CategoryController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-18 14:14:47] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:14:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:14:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:14:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:14:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:14:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:14:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:14:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:14:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:14:49] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:17:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:17:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:17:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:17:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:17:35] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:18:27] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:18:27] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:18:27] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:18:27] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:18:56] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:18:56] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:18:56] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-18 14:18:56] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-19 15:54:08] Error text: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.category_desxription' doesn't exist | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-19 15:54:40] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category.id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-19 15:56:18] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category.id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-19 15:58:21] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category.id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-19 15:58:22] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category.id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-19 15:58:22] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category.id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-19 15:58:22] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category.id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-19 15:58:22] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category.id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-19 15:58:22] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category.id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-19 15:58:26] Error text: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category.id' in 'on clause' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-08-19 16:45:55] Error text: foreach() argument must be of type array|object, null given | File: C:\OpenServer\domains\ishop.loc\app\models\Category.php | String: 21
+===============
+[2022-08-19 17:17:35] Error text: syntax error, unexpected token ">" | File: C:\OpenServer\domains\ishop.loc\app\controllers\CategoryController.php | String: 27
+===============
+[2022-08-19 17:19:10] Error text: Controller app\controllers\CategoryController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-19 17:20:17] Error text: Controller app\controllers\CategoryController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-08-19 17:49:53] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\widgets\menu\menu_tpl.php | String: 5
+===============
+[2022-08-19 17:51:14] Error text: Undefined array key "children" | File: C:\OpenServer\domains\ishop.loc\app\widgets\menu\menu_tpl.php | String: 5
+===============
+[2022-08-19 17:54:35] Error text: foreach() argument must be of type array|object, null given | File: C:\OpenServer\domains\ishop.loc\app\models\Category.php | String: 20
+===============
+[2022-08-19 17:55:13] Error text: foreach() argument must be of type array|object, null given | File: C:\OpenServer\domains\ishop.loc\app\models\Category.php | String: 20
+===============
+[2022-08-19 17:55:31] Error text: foreach() argument must be of type array|object, null given | File: C:\OpenServer\domains\ishop.loc\app\models\Category.php | String: 20
+===============
+[2022-08-19 17:55:43] Error text: foreach() argument must be of type array|object, null given | File: C:\OpenServer\domains\ishop.loc\app\models\Category.php | String: 20
+===============
+[2022-08-19 17:55:43] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-19 17:55:44] Error text: foreach() argument must be of type array|object, null given | File: C:\OpenServer\domains\ishop.loc\app\models\Category.php | String: 20
+===============
+[2022-08-19 17:55:44] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-19 17:55:44] Error text: foreach() argument must be of type array|object, null given | File: C:\OpenServer\domains\ishop.loc\app\models\Category.php | String: 20
+===============
+[2022-08-19 17:55:44] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-19 17:55:44] Error text: foreach() argument must be of type array|object, null given | File: C:\OpenServer\domains\ishop.loc\app\models\Category.php | String: 20
+===============
+[2022-08-19 17:55:44] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-19 17:55:45] Error text: foreach() argument must be of type array|object, null given | File: C:\OpenServer\domains\ishop.loc\app\models\Category.php | String: 20
+===============
+[2022-08-19 17:55:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-19 17:55:45] Error text: foreach() argument must be of type array|object, null given | File: C:\OpenServer\domains\ishop.loc\app\models\Category.php | String: 20
+===============
+[2022-08-19 17:55:45] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-19 18:57:10] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-08-19 20:01:27] Error text: compact(): Undefined variable $productd | File: C:\OpenServer\domains\ishop.loc\app\controllers\CategoryController.php | String: 27
+===============
+[2022-08-19 20:01:54] Error text: compact(): Undefined variable $product | File: C:\OpenServer\domains\ishop.loc\app\controllers\CategoryController.php | String: 27
+===============
+[2022-08-29 16:20:59] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-01 16:25:41] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-01 16:25:41] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-01 16:25:48] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-01 16:25:48] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-01 17:08:54] Error text: Division by zero | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Pagination.php | String: 91
+===============
+[2022-09-01 18:44:55] Error text: count(): Argument #1 ($value) must be of type Countable|array, bool given | File: C:\OpenServer\domains\ishop.loc\app\models\Wishlist.php | String: 21
+===============
+[2022-09-01 18:45:29] Error text: count(): Argument #1 ($value) must be of type Countable|array, bool given | File: C:\OpenServer\domains\ishop.loc\app\models\Wishlist.php | String: 21
+===============
+[2022-09-01 18:45:43] Error text: count(): Argument #1 ($value) must be of type Countable|array, bool given | File: C:\OpenServer\domains\ishop.loc\app\models\Wishlist.php | String: 21
+===============
+[2022-09-01 18:46:11] Error text: count(): Argument #1 ($value) must be of type Countable|array, bool given | File: C:\OpenServer\domains\ishop.loc\app\models\Wishlist.php | String: 21
+===============
+[2022-09-05 14:55:14] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-05 15:07:21] Error text: Method app\controllers\WishlistController::deleteAction not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 57
+===============
+[2022-09-05 16:16:18] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\models\Wishlist.php | String: 62
+===============
+[2022-09-05 16:16:27] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\models\Wishlist.php | String: 62
+===============
+[2022-09-05 16:21:53] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\models\Wishlist.php | String: 62
+===============
+[2022-09-05 16:22:00] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\models\Wishlist.php | String: 62
+===============
+[2022-09-05 16:23:19] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\models\Wishlist.php | String: 62
+===============
+[2022-09-05 16:23:23] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\models\Wishlist.php | String: 62
+===============
+[2022-09-05 16:23:52] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\models\Wishlist.php | String: 62
+===============
+[2022-09-05 17:30:51] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-13 13:30:09] Error text: Method app\controllers\UserController::loginAction not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 57
+===============
+[2022-09-13 13:30:09] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-13 13:30:24] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/User/signup.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 35
+===============
+[2022-09-13 13:32:53] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/User/signup.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 35
+===============
+[2022-09-13 13:32:53] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-13 13:39:56] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/User/signup.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 35
+===============
+[2022-09-13 13:47:41] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/User/signup.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 35
+===============
+[2022-09-13 13:47:44] Error text: Not found C:\OpenServer\domains\ishop.loc/app/views/User/signup.php | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\View.php | String: 35
+===============
+[2022-09-13 13:47:53] Error text: Method app\controllers\UserController::indexAction not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 57
+===============
+[2022-09-13 13:48:16] Error text: Controller app\controllers\EnController not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 60
+===============
+[2022-09-13 17:34:53] Error text: Rule 'lengtMin' has not been registered with Valitron\Validator::addRule(). | File: C:\OpenServer\domains\ishop.loc\vendor\vlucas\valitron\src\Valitron\Validator.php | String: 1410
+===============
+[2022-09-13 18:04:37] Error text: Class "vlucas\valitron\src\Valitron\Validator" not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Model.php | String: 31
+===============
+[2022-09-14 16:21:23] Error text: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'mail@mail.com' for key 'email' | File: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | String: 206
+===============
+[2022-09-14 16:23:03] Error text: foreach() argument must be of type array|object, string given | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Model.php | String: 49
+===============
+[2022-09-14 16:24:30] Error text: foreach() argument must be of type array|object, string given | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Model.php | String: 49
+===============
+[2022-09-14 16:25:27] Error text: foreach() argument must be of type array|object, string given | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Model.php | String: 49
+===============
+[2022-09-14 16:25:32] Error text: wfm\Model::getErrors(): Return value must be of type string, none returned | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Model.php | String: 55
+===============
+[2022-09-14 19:22:55] Error text: Method app\controllers\UserController::cabinetAction not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 57
+===============
+[2022-09-26 16:43:04] Error text: Method app\controllers\CartController::viewAction not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 57
+===============
+[2022-09-26 16:43:04] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-26 19:50:06] Error text: Non-static method app\models\Order::saveOrderProduct() cannot be called statically | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 19
+===============
+[2022-09-29 17:19:48] Error text: require(C:\OpenServer\domains\ishop.loc/app/view/mail/mail_order_user.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 74
+===============
+[2022-09-29 17:19:48] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-29 17:20:44] Error text: require(C:\OpenServer\domains\ishop.loc/app/view/mail/mail_order_user.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 74
+===============
+[2022-09-29 17:20:47] Error text: require(C:\OpenServer\domains\ishop.loc/app/view/mail/mail_order_user.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 74
+===============
+[2022-09-29 17:20:50] Error text: require(C:\OpenServer\domains\ishop.loc/app/view/mail/mail_order_user.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 74
+===============
+[2022-09-29 17:22:11] Error text: require(C:\OpenServer\domains\ishop.loc/app/view/mail/mail_order_user.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 74
+===============
+[2022-09-29 18:01:20] Error text: app\models\Order::mailOrder(): Return value must be of type bool, none returned | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 82
+===============
+[2022-09-29 18:14:06] Error text: Undefined constant "app\models\DIR" | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 88
+===============
+[2022-09-29 18:18:25] Error text: require_once(C:\OpenServer\domains\ishop.loc\app/vendor/phpmailer/src/Exception.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 88
+===============
+[2022-09-29 18:18:25] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-29 18:19:16] Error text: require_once(C:\OpenServer\domains\ishop.loc\app../vendor/phpmailer/src/Exception.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 88
+===============
+[2022-09-29 18:19:38] Error text: require_once(C:\OpenServer\domains\ishop.loc\app/../vendor/phpmailer/src/Exception.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 88
+===============
+[2022-09-29 18:20:11] Error text: require_once(C:\OpenServer\domains\ishop.loc\app/../vendor/phpmailer/src/PHPMailer.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 89
+===============
+[2022-09-29 18:21:31] Error text: require_once(C:\OpenServer\domains\ishop.loc\app\..\vendor\phpmailer\src\Exception.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 88
+===============
+[2022-09-29 18:22:35] Error text: require_once(C:\OpenServer\domains\ishop.loc\app\..\vendor\phpmailer\src\Exception.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 88
+===============
+[2022-09-29 18:23:38] Error text: require_once(C:\OpenServer\domains\ishop.loc\app..\vendor\phpmailer\src\Exception.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 88
+===============
+[2022-09-29 18:25:10] Error text: require_once(C:\OpenServer\domains\ishop.loc\public): Failed to open stream: Permission denied | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 88
+===============
+[2022-09-29 18:25:38] Error text: require_once(C:\OpenServer\domains\ishop.loc\app\models\..\vendor\phpmailer\src\Exception.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 88
+===============
+[2022-09-29 18:26:02] Error text: require_once(C:\OpenServer\domains\ishop.loc\app\models\..\..\vendor\phpmailer\src\Exception.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 88
+===============
+[2022-09-29 18:27:25] Error text: require_once(C:\OpenServer\domains\ishop.loc\vendor\phpmailer\src\Exception.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 88
+===============
+[2022-09-29 18:27:53] Error text: require_once(C:\OpenServer\domains\ishop.loc\app/../vendor/phpmailer/src/PHPMailer.php): Failed to open stream: No such file or directory | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 89
+===============
+[2022-09-29 18:28:20] Error text: app\models\Order::mailOrder(): Return value must be of type bool, none returned | File: C:\OpenServer\domains\ishop.loc\app\models\Order.php | String: 123
+===============
+[2022-09-29 18:55:39] Error text: No connection to DB | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Db.php | String: 16
+===============
+[2022-09-29 21:31:07] Error text: Method app\controllers\UserController::orderAction not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 57
+===============
+[2022-09-29 21:31:07] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-29 21:54:19] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\views\User\order.php | String: 58
+===============
+[2022-09-29 21:54:59] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\views\User\order.php | String: 58
+===============
+[2022-09-29 21:55:00] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\views\User\order.php | String: 58
+===============
+[2022-09-29 21:55:00] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\views\User\order.php | String: 58
+===============
+[2022-09-29 21:55:00] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\views\User\order.php | String: 58
+===============
+[2022-09-29 21:55:00] Error text: Array to string conversion | File: C:\OpenServer\domains\ishop.loc\app\views\User\order.php | String: 58
+===============
+[2022-09-29 22:00:05] Error text: Undefined array key "status" | File: C:\OpenServer\domains\ishop.loc\app\controllers\UserController.php | String: 101
+===============
+[2022-09-29 22:00:08] Error text: Undefined array key "status" | File: C:\OpenServer\domains\ishop.loc\app\controllers\UserController.php | String: 101
+===============
+[2022-09-29 22:23:43] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
+[2022-09-30 08:58:25] Error text: Page not found | File: C:\OpenServer\domains\ishop.loc\vendor\wfm\Router.php | String: 63
+===============
